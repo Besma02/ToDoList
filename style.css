@@ -1,0 +1,33 @@
+div{
+    width: 50%;
+    
+    background-color: rgb(193, 193, 248);
+    padding: 20px;
+    margin:0 auto;
+}
+h1{
+    text-align: center;
+}
+input{
+    text-align: center;
+    margin-left: 25%;
+    margin-top: 30px;
+
+}
+button{
+   margin-left:10px ;
+}
+.best{
+    background-color: rgb(235, 235, 238);
+    height: 15px;
+    border: 2px solid rgb(60, 60, 100);
+    margin-bottom: 2px;
+
+}
+.delete{
+    padding-left: 80%;
+    
+
+}
+
+
